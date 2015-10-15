@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "aurelia", "..\..\..\..\Projects\aurelia\", "{FD14960E-FF44-4026-BAA7-421C0AA15F17}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_5520"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Projects\aurelia\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5520\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_5520"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Projects\aurelia\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5520\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "5520"
+		SlnRelativePath = "..\..\..\..\Projects\aurelia\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD14960E-FF44-4026-BAA7-421C0AA15F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD14960E-FF44-4026-BAA7-421C0AA15F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
